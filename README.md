@@ -59,6 +59,9 @@
 <br />
 <br />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giftmothusi" alt="giftmothusi" /></a> </p>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giftmothusi&show_icons=true&locale=en&layout=compact" alt="giftmothusi" /></p>
