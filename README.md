@@ -11,13 +11,15 @@
 *Full-stack Software Developer*
 <br /> 
 
-<!--Start Intro-->
-<p align="left">I'm a passionate web and app developer with a focus on creating practical and efficient solutions. I enjoy working on exciting projects and continuously growing my skill set.</p>
+<!--Start Intro--><p align="left">I'm a passionate web and app developer with a focus on creating practical and efficient solutions. I enjoy working on exciting projects and continuously growing my skill set.</p>
+🌱 Currently expanding my knowledge in modern web architectures and cloud technologies
 
-- 🌱 Constantly learning and improving my expertise, particularly in the MERN stack, Laravel, and Tailwind CSS.
-- 👨‍💻 Proficient in various technologies, including JavaScript, React, Node.js, PHP, and MySQL.
-- 🛠 Experienced in full-stack development, from building frontend UIs to setting up backend databases.
-- 💼 Check out my [Portfolio](https://thabotshabalala.netlify.app/) to see the projects I’ve worked on.
+� Building intuitive interfaces with a focus on accessibility and user experience
+
+💡 Interested in solving complex problems through clean, maintainable code
+
+💼 Check out my Portfolio to see the projects I've worked on
+
 <!--End Intro-->
 
 
