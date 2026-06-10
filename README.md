@@ -54,8 +54,6 @@
 -->
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
-
 <!--Contact Section-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
